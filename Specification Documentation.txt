@@ -1,0 +1,63 @@
+ANDROID MESSENGER APPLICATION.
+20/09/2022.
+
+OVERVIEW.
+Project Background and Description.
+Following the pandemic that swept the globe in recent years, a lot of us found ourselves confined to our homes unable to attend work, school and college.
+In such times it becomes imperative that we find a reliable and secure way to stay connected. The Android Messenger app lets users log in to the 
+system and stay connected with their loved ones without having to use their phone number or e-mail ID. All the user needs to have is an android 
+smartphone and a connection to the internet.  This app keeps the personal details of its users safe and not compromised. Users can also edit their 
+profile and change their password anytime.
+
+Project Scope.
+In this system, Users will be able to chat with each other. Users will have to create an account and login into the system.
+Users can also search and chat with any users who are registered into the system. It is a purely chat-based application and cannot add any attachments. 
+Users will get a notification for message received.
+This is an Android based application system accessible through smartphones, i-pad's and laptops.
+
+
+Authentication service
+
+Contact form
+
+
+MODULES.
+The system comprises of one major module with their sub-modules as follows; 
+User;
+Splash;
+-Introductory Screen
+Register;
+- Users can register using personal details.
+Login;
+- User can login in his/her personal account using ID and password.
+Chat;
+- List of recent Chats
+- List of all Users who have registered in the app with a search option.
+Change password;
+- Can change password within the app.
+Notification;
+- Notification of chat sent by the user.
+4. Deliverables.
+Easy and friendly UI.
+Privacy protection.
+Application accessible to users.
+Documentation.
+5. Affected parties.
+Users
+
+6. Affected systems.
+- User application and authentication.
+
+7.  Implementation.
+Installing the Android Messenger app on an android mobile device by downloading it.
+
+
+8. Schedule.
+
+
+
+
+
+
+
+
