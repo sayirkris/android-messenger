@@ -39,8 +39,6 @@
             android:layout_marginHorizontal="9dp"
             android:background="@drawable/background_sent_message"/>
 
-
-
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
